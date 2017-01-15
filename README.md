@@ -1,1 +1,0 @@
-# AWS_CF_UBUNTU_LAMP
